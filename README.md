@@ -27,8 +27,16 @@
 ## ▶️ Open in Colab
 
 Launch the notebook directly in Google Colab:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mo-kw/spacebot-educational-llm/blob/main/LLM_space.ipynb)
 
+---
+
+## 🧠 Output Example
+
+Here’s a sample of how SpaceBot responds to space-related questions:
+
+![Output Example]([images/output_example.png](https://github.com/Mo-kw/spacebot-educational-llm/blob/main/Capture.PNG))
 
 
 
