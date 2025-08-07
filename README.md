@@ -27,8 +27,8 @@
 ## ▶️ Open in Colab
 
 Launch the notebook directly in Google Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mo-kw/spacebot-educational-llm/blob/main/LLM_space.ipynb)
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/spacebot-educational-llm/blob/main/LLM%20space.ipynb](https://github.com/Mo-kw/spacebot-educational-llm/blob/main/LLM_space.ipynb))
 
 
 
