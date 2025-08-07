@@ -67,6 +67,11 @@ This project fine-tunes the [`microsoft/phi-2`](https://huggingface.co/microsoft
 The fine-tuning leverages 4-bit quantization and parameter-efficient tuning to optimize resource usage while adapting the model for space domain Q&A.
 
 ---
+## 📚 Dataset
+
+This project uses the [AllenAI SciQ dataset](https://huggingface.co/datasets/allenai/sciq), a collection of science questions. The dataset was filtered to extract space-related questions using keywords like "planet," "gravity," "black hole," and others to create a domain-specific training set for fine-tuning.
+
+---
 
 ## 🔮 Future Improvements
 
