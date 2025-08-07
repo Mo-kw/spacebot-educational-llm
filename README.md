@@ -60,6 +60,13 @@ Here’s a sample of how SpaceBot responds to space-related questions:
 - Model packaging and reload instructions  
 
 ---
+## 🛠️ Model Details
+
+This project fine-tunes the [`microsoft/phi-2`](https://huggingface.co/microsoft/phi-2) causal language model using LoRA on a curated dataset of space-related questions. 
+
+The fine-tuning leverages 4-bit quantization and parameter-efficient tuning to optimize resource usage while adapting the model for space domain Q&A.
+
+---
 
 ## 🔮 Future Improvements
 
