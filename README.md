@@ -36,7 +36,8 @@ Launch the notebook directly in Google Colab:
 
 Here’s a sample of how SpaceBot responds to space-related questions:
 
-![Output Example]([images/output_example.png](https://github.com/Mo-kw/spacebot-educational-llm/blob/main/Capture.PNG))
+![Output Example](https://github.com/Mo-kw/spacebot-educational-llm/raw/main/Capture.PNG)
+
 
 
 
